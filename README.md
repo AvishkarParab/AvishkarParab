@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN Projects
+- 🔭 I’m currently working as Back End Developer
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Develpoers
 - 👨‍💻 All of my projects are: Here
-- 💬 Ask me about MERN,MongoDB,Java,Web Developing
+- 💬 Ask me about MERN,MongoDB,Java,Web Developing,cricket
 -📫 How to reach me: Email: aviparab72733@gmail.com 
 - Instagram: @avishkar_parab_31
 - Protfolio🌟: https://avishkarparab.netlify.app
